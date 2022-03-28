@@ -24,5 +24,8 @@ public class App {
         public int devide(int a, int b){
           return a/b;
         }
+        public int summ(int a, int b){
+          return a+b;
+        }
     }
 }
